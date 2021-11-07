@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/res">
+        <file>img/close1.png</file>
+        <file>img/close2.png</file>
+        <file>img/play1.png</file>
+        <file>img/play2.png</file>
+        <file>img/background.png</file>
+        <file>img/tx_about.png</file>
+        <file>img/tx_about_on.png</file>
+        <file>img/tx_quit.png</file>
+        <file>img/tx_quit_on.png</file>
+        <file>img/tx_start.png</file>
+        <file>img/tx_start_on.png</file>
+        <file>img/Parkour_text.png</file>
+        <file>img/demo1.png</file>
+        <file>img/demo2.png</file>
+        <file>img/demo3.png</file>
+    </qresource>
+    <qresource prefix="/charactor">
+        <file>sprites/falling.png</file>
+        <file>sprites/idle.png</file>
+        <file>sprites/jump.png</file>
+        <file>sprites/land.png</file>
+        <file>sprites/run.png</file>
+        <file>sprites/run_to_stop.png</file>
+        <file>sprites/stand_to_run.png</file>
+        <file>sprites/roll.png</file>
+    </qresource>
+    <qresource prefix="/m">
+        <file>img/mapRes/background1.png</file>
+        <file>img/mapRes/frame1.png</file>
+        <file>img/mapRes/rock1.png</file>
+        <file>img/mapRes/rock2.png</file>
+    </qresource>
+</RCC>
