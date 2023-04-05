@@ -16,6 +16,6 @@
 ![main](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/mainpage.png)
 
 # 游戏界面
-![play](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/mainpage.png)
+![play](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/playground.png)
 
 QQ：209848539
