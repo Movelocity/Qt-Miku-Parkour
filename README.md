@@ -13,9 +13,9 @@
 其实刷新率应该还能调整，动画为了衔接没有把spritesheet中的全部图用上，把定时器调快一点就能提高帧率了，不过移动速度（每步位移）也要相应调整
 
 # 启动界面
-![main](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/mainpage.png)
+![main](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/demo1.png)
 
 # 游戏界面
-![play](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/playground.png)
+![play](https://github.com/Movelocity/Qt-Miku-Parkour/blob/main/demo2.png)
 
 QQ：209848539
